@@ -27,3 +27,7 @@ The following shows a snapshot of my SVG file:
 
 ## Contribution
   Contributions are not accepted at the moment
+
+## Test
+
+Please use the command 'npm run test' to initiate the jest testing suite.
